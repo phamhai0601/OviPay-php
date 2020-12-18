@@ -1,0 +1,30 @@
+{
+	"name": "phamhai0601/OviPay-php",
+	"description": "OviPay PHP SDK enables you to integrate the OviPay's Checkout Page seamlessly without having the hassle of integrating everything from Scratch.",
+	"type": "library",
+	"homepage": "https://www.ovipay.net",
+	"keywords": [
+		"ovipay",
+		"payments",
+		"credit cards",
+		"payment processing"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "OviPay Team",
+			"email": "support@ovipay.net"
+		}
+	],
+	"require": {
+		"php": ">=5.4",
+		"ext-curl": "*",
+		"ext-json": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"OviPay\\": "lib/OviPay/"
+		}
+	},
+	"minimum-stability": "dev"
+}
