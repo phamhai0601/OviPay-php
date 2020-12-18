@@ -1,5 +1,5 @@
 {
-	"name": "phamhai0601/OviPay-php",
+	"name": "phamhai0601/ovipay-php",
 	"description": "OviPay PHP SDK enables you to integrate the OviPay's Checkout Page seamlessly without having the hassle of integrating everything from Scratch.",
 	"type": "library",
 	"homepage": "https://www.ovipay.net",
